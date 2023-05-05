@@ -8,22 +8,26 @@ input{
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
-    border: 2px solid #5f9341;
+    border: 2px solid #002B5B;
     outline: none;
     margin-bottom: 5px;
 }
 button{
-    background: #5f9341;
+    background: #002B5B;
     color: white;
     padding: 10px 20px;
-    border: 1px solid #5f9341;
+    border: 1px solid #002B5B;
     cursor: pointer;
     font-weight: bold;
+    margin-left: 5px;
+    margin-top: 5px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 
 }
 #delete-btn{
     background: white;
-    color: #5f9341;
+    color: #002B5B;
 }
 ul{
     list-style: none;
@@ -35,5 +39,5 @@ li{
     margin-top: 5px;
 }
 a{
-    color: #5f9341;
+    color: #002B5B;
 }
